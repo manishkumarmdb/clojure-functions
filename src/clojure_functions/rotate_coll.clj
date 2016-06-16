@@ -6,7 +6,8 @@
 
 (rotate-coll-implementation-01 '(a b c d e f g h) 3)
 ;;=> [d e f g h a b c]
-(rotate-coll-implementation-01 '[a b c d e f g h] 3)
-;;=> [d e f g h a b c]
+
+(rotate-coll-implementation-01 '[a b c d e f g h] 4)
+;;=> [e f g h a b c d]
 
 ;;--------------------------------------------------
