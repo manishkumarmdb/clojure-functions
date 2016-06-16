@@ -15,4 +15,4 @@
 ;;passing string
 (get-word-counts "This will return the html content of clojuredocs.org")
 
-;;----------------------------
+;; ---------------------------------------------------------------------
