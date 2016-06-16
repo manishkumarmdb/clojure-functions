@@ -19,3 +19,5 @@
 (is-prime? 33) ;;=> false
 (is-prime? 2) ;;=> true
 (is-prime? 3) ;;=> true
+
+;; --------------------
