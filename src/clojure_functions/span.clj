@@ -17,6 +17,7 @@
 (span-implementation-tco < 9 [1 2 3]) ;;=> ([1 2 3] [])
 (span-implementation-tco < 0 [1 2 3]) ;;=> ([] [1 2 3])
 
+;; ----------------------------------------------------
 
 ;; using higher order functions
 
