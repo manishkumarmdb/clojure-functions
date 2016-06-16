@@ -20,3 +20,5 @@
 (drop-implementation 8 [2 3 4 5 6 61]) ;;=> ()
 (drop-implementation 3 '()) ;;=> ()
 (drop-implementation 0 []) ;;=> ()
+
+;; -------------------------------
